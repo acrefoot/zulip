@@ -40,7 +40,6 @@ static/third/gemoji/
 static/third/zxcvbn/
 tools/setup/emoji_dump/bitmaps/
 tools/setup/emoji_dump/*.ttx
-tools/phantomjs
 node_modules
 npm-debug.log
 uploads/

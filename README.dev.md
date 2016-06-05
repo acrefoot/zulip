@@ -1095,7 +1095,6 @@ And then do the following steps that are common to all platforms:
 
 ```
 pip install --no-deps -r requirements.txt
-./tools/setup/install-phantomjs
 ./tools/install-mypy
 ./tools/setup/download-zxcvbn
 ./tools/emoji_dump/build_emoji
