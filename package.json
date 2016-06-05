@@ -19,7 +19,9 @@
     "i18next": "3.0.0",
     "i18next-parser": "0.7.0",
     "i18next-xhr-backend": "0.5.4",
-    "i18next-browser-languagedetector": "0.3.0"
+    "i18next-browser-languagedetector": "0.3.0",
+    "phantomjs-prebuilt": "2.1.7",
+    "casperjs": "1.1.1"
   },
   "scripts": {},
   "repository": {
