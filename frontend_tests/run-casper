@@ -17,6 +17,7 @@ import glob
 #
 
 os.environ["TORNADO_SERVER"] = "http://localhost:9983"
+os.environ["PHANTOMJS_EXECUTABLE"] = os.path.join(os.path.dirname(__file__), "../node_modules/.bin/phantomjs")
 
 parser = optparse.OptionParser(r"""
 
